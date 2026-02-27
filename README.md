@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, I am Aydan👋
+I'm Unreal Authorized Instructor and Unreal Engine mentor with 7 years of experience.
 <!--
 **1aidan9/1aidan9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
