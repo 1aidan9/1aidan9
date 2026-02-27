@@ -23,3 +23,8 @@ Here are some ideas to get you started:
 🤝 Open to collaborating on interesting open-source projects
 
 💬 Ask me about anything realted to Unreal Engine and games in general.
+
+
+<!-- Add more links below as needed -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aydan-aliyeva-976925201/) -->
+<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://your-site.com) -->
