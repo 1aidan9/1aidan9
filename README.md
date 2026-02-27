@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 🚀 What I'm up to
 
 🔨 Currently working on The Black Falcon. A medieval RPG game about the story of my country Azerbaijan.
+
 📚 Currently studying at Utrecht University in Master program for Game and Media Technology
+
 🤝 Open to collaborating on interesting open-source projects
+
 💬 Ask me about anything realted to Unreal Engine and games in general.
